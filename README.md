@@ -1,5 +1,5 @@
 # Coursera-Deep-Learning-Specialization
-Build and train deep neural networks, identify key architecture parameters, implement vectorized neural networks and deep learning to applications
+Build and train deep neural networks, identify key architecture parameters, implement vectorized neural networks and deep learning to applications.
 Programming assignments and lecture notes from the [Deep Learning Specialization][DLS]
 taught by [Andrew Ng](https://www.andrewng.org/) and offered by [deeplearning.ai](https://www.deeplearning.ai/) on Coursera. 
 
